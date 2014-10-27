@@ -8,7 +8,7 @@ Facebook's XML source is a bit unwieldy: https://www.facebook.com/translations/F
 ## Fetch latest locale data from Facebook  (there's a copy in /data)
     curl -L -o data/FacebookLocales.json 'https://www.facebook.com/translations/FacebookLocales.xml'
 
-Note that you can put and use the output files wherever you want. There are no hard dependencies in the scripts.
+Note: you can put the output files anywhere. There are no hard path dependencies in the scripts.
 
 ## Convert XML to JSON
     node FacebookLocalesXMLToJSON.js xml/FacebookLocales.xml > json/FacebookLocales.json
