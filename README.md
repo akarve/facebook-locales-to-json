@@ -9,7 +9,7 @@ Facebook's XML source is unwieldy: https://www.facebook.com/translations/Faceboo
 
 # Usage
 
-## Fetch latest locale data from Facebook  (there's a copy in /data)
+## Fetch latest locale data from Facebook
     curl -L -o data/FacebookLocales.json 'https://www.facebook.com/translations/FacebookLocales.xml'
 
 *Note: you can put the output files anywhere. There are no hard path dependencies in the scripts.*
