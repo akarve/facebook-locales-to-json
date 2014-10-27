@@ -1,7 +1,8 @@
 Convert FacebookLocales.xml to JSON
 # Overview 
-Node scripts to convert Facebook XML to simplified JSON for consumption in JS &amp; HTML
-Facebook's XML source is a bit unwieldy: https://www.facebook.com/translations/FacebookLocales.xml
+Node scripts to convert Facebook XML to simplified JSON for consumption in JS &amp; HTML.
+## Motivation
+Facebook's XML source is unwieldy: https://www.facebook.com/translations/FacebookLocales.xml
 
 # Usage
 
