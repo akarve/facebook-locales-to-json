@@ -14,8 +14,8 @@ fs.readFile(fname, {encoding: 'utf8'}, function(err, data){
     var repr = locales[i]['codes']['code']['standard']['representation'];
     lang_to_code[name] = repr;
   }
-  //for 'compressed' output
+  //for 'compressed' output, use this:
   //console.log(JSON.stringify(lang_to_code));
-  //for pretty printed output, use this
+  //for pretty printed output, use this:
   console.log(JSON.stringify(lang_to_code, null, 4));
 });
