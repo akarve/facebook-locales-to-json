@@ -1,0 +1,919 @@
+{
+  "locales": {
+    "locale": [
+      {
+        "englishName": "Afrikaans",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "af_ZA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Arabic",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ar_AR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Azerbaijani",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "az_AZ"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Belarusian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "be_BY"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Bulgarian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "bg_BG"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Bengali",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "bn_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Bosnian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "bs_BA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Catalan",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ca_ES"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Czech",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "cs_CZ"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Cebuano",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "cx_PH"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Welsh",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "cy_GB"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Danish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "da_DK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "German",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "de_DE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Greek",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "el_GR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "English (UK)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "en_GB"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "English (Pirate)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "en_PI"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "English (Upside Down)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "en_UD"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "English (US)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "en_US"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Esperanto",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "eo_EO"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Spanish (Spain)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "es_ES"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Spanish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "es_LA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Estonian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "et_EE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Basque",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "eu_ES"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Persian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fa_IR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Leet Speak",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fb_LT"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Finnish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fi_FI"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Faroese",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fo_FO"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "French (Canada)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fr_CA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "French (France)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fr_FR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Frisian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "fy_NL"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Irish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ga_IE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Galician",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "gl_ES"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Guarani",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "gn_PY"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Hebrew",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "he_IL"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Hindi",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "hi_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Croatian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "hr_HR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Hungarian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "hu_HU"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Armenian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "hy_AM"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Indonesian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "id_ID"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Icelandic",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "is_IS"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Italian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "it_IT"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Japanese",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ja_JP"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Javanese",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "jv_ID"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Georgian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ka_GE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Khmer",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "km_KH"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Kannada",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "kn_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Korean",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ko_KR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Kurdish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ku_TR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Latin",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "la_VA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Lithuanian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "lt_LT"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Latvian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "lv_LV"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Macedonian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "mk_MK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Malayalam",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ml_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Malay",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ms_MY"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Norwegian (bokmal)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "nb_NO"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Nepali",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ne_NP"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Dutch",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "nl_NL"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Norwegian (nynorsk)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "nn_NO"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Punjabi",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "pa_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Polish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "pl_PL"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Pashto",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ps_AF"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Portuguese (Brazil)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "pt_BR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Portuguese (Portugal)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "pt_PT"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Romanian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ro_RO"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Russian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ru_RU"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Sinhala",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "si_LK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Slovak",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sk_SK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Slovenian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sl_SI"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Albanian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sq_AL"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Serbian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sr_RS"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Swedish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sv_SE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Swahili",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "sw_KE"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Tamil",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ta_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Telugu",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "te_IN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Thai",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "th_TH"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Filipino",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "tl_PH"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Turkish",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "tr_TR"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Ukrainian",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "uk_UA"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Urdu",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "ur_PK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Vietnamese",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "vi_VN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Simplified Chinese (China)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "zh_CN"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Traditional Chinese (Hong Kong)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "zh_HK"
+            }
+          }
+        }
+      },
+      {
+        "englishName": "Traditional Chinese (Taiwan)",
+        "codes": {
+          "code": {
+            "standard": {
+              "name": "FB",
+              "representation": "zh_TW"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
