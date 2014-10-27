@@ -17,5 +17,5 @@ Facebook's XML source is unwieldy: https://www.facebook.com/translations/Faceboo
 ## Convert XML to JSON
     node FacebookLocalesXMLToJSON.js xml/FacebookLocales.xml > json/FacebookLocales.json
 
-## Simplify
+## Simplify the JSON
     node LocaleToRepresentation.js data/FacebookLocales.json > FacebookLocalesSimple.json
